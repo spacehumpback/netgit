@@ -1,5 +1,6 @@
 title = "Solar Theme"
 theme = "solar"
+publishDir = "docs"
 paginate = 5
 pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
 copyright = ""
